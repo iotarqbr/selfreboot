@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Self Reboot</string>
+    <string name="intro">Selecione um horário diário para tentar reiniciar o Android automaticamente.</string>
+    <string name="schedule">Salvar agendamento</string>
+    <string name="cancel">Cancelar agendamento</string>
+    <string name="grant_exact_alarm">Permitir alarme exato (Android 12+)</string>
+</resources>
